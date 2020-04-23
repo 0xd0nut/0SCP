@@ -1,1 +1,2 @@
-# 0SCP-Prep
+# 0SCP
+Notes for OSCP like machines
