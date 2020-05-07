@@ -1,2 +1,2 @@
 # 0SCP
-Notes for OSCP like machines
+* OSCP-like machine writeups, separated between linux & windows
